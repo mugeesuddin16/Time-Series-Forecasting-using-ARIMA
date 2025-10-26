@@ -63,34 +63,34 @@ When the data is **stationary**, ARIMA is suitable; when seasonal effects domina
 
 🎯 **Key Outcomes**
 
-You will learn how to structure a time-series forecasting workflow using ARIMA.
+● You will learn how to structure a time-series forecasting workflow using ARIMA.
 
-You’ll gain hands-on experience with parameter selection (p, d, q), model fitting, and forecasting.
+● You’ll gain hands-on experience with parameter selection (p, d, q), model fitting, and forecasting.
 
-You’ll understand when ARIMA works well — and when seasonal data calls for SARIMA.
+● You’ll understand when ARIMA works well — and when seasonal data calls for SARIMA.
 
-You’ll build a reusable template for forecasting future stock prices (or other time-series data).
+● You’ll build a reusable template for forecasting future stock prices (or other time-series data).
 
 ---
 
 🧠 **Things to Think About / Future Work**
 
-Explore grid-searching p, d, q (and seasonal P, D, Q) for optimal model selection.
+● Explore grid-searching p, d, q (and seasonal P, D, Q) for optimal model selection.
 
-Compare ARIMA/SARIMA with machine-learning or deep-learning based time-series models (e.g., LSTM, Transformer).
+● Compare ARIMA/SARIMA with machine-learning or deep-learning based time-series models (e.g., LSTM, Transformer).
 
-Incorporate additional features (e.g., volume, market indicators) for multivariate forecasting.
+● Incorporate additional features (e.g., volume, market indicators) for multivariate forecasting.
 
-Evaluate forecast accuracy using metrics (RMSE, MAE, MAPE) and incorporate back-testing.
+● Evaluate forecast accuracy using metrics (RMSE, MAE, MAPE) and incorporate back-testing.
 
-Deploy the model as a live forecasting service or integrate into a dashboard.
+● Deploy the model as a live forecasting service or integrate into a dashboard.
 
 ---
 
 📝 **Credits & References**
 
-Original blog article: Time Series Forecasting with ARIMA
+● Original blog article: Time Series Forecasting with ARIMA
 
-Python libraries: yfinance, pandas, matplotlib, statsmodels, etc.
+● Python libraries: yfinance, pandas, matplotlib, statsmodels, etc.
 
-Stock data via Yahoo Finance API.
+● Stock data via Yahoo Finance API.
